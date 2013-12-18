@@ -1,1 +1,10 @@
-target/
+#maven
+workspace/mvc/target
+
+*.class
+
+# Eclipse project files
+workspace/.metadata
+workspace/RemoteSystemsTempFiles
+workspace/mybatis3/.classpath
+workspace/mybatis3/.project
